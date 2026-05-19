@@ -1,3 +1,5 @@
+#Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
 def twosum(nums,target):
     if not nums: print(0)
     else:
@@ -12,7 +14,7 @@ target = 9
 
 twosum(nums, target)
 
-#better way with one for loop
+#better way with one 'for loop'
 
 def twosumbetter(nums,target):
     seen = {}

@@ -1,3 +1,5 @@
+#to familiarize with operators
+
 a = 5
 b = 3
 c = 2
